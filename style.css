@@ -46,7 +46,8 @@ margin: 25px;
 body {
 
     background-color: e9d8a6;
-    
+    height: 100vh;
+   
 }
 
 .right {
@@ -104,7 +105,6 @@ flex-direction: row;
 }
 
 .box {
-
 width: 350px;
 height:700px ;
 background-color:94d2bd;
@@ -131,7 +131,7 @@ box-shadow: rgba(0, 0, 0, 0.222) 0px 2px 8px;
 
 .box:hover {
    transform: scale(1.1);
- 
+
     
 }
 
@@ -207,9 +207,3 @@ box-shadow: rgba(0, 0, 0, 0.35) 0px 4px 10px;
 
 }
 
-.box .flip {
-
-
-
-
-}
