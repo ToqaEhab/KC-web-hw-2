@@ -101,6 +101,7 @@
     flex-wrap: wrap;
     margin-top: 100px;
     flex-direction: row;
+    width: 100%;
     
     
     }
@@ -144,6 +145,7 @@
     justify-content: center;
     flex-wrap: wrap;
     margin-top: 200px;
+    width: 100%;
     }
     
     .container3 {
@@ -153,6 +155,7 @@
     justify-content: center;
     flex-wrap: wrap;
     margin-top: 200px;
+    width: 100%;
     
     }
     
